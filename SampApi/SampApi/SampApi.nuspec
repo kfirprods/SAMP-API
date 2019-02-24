@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Kfir Eichenblat</authors>
+    <owners>$author$</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/kfirprods/SAMP-API</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+    	An interface to GTA:SA and SA:MP via memory injections, fully written in C#
+    </description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>gta gtasa samp sanandreas san andreas multiplayer api sampapi gtasaapi</tags>
+  </metadata>
+</package>
