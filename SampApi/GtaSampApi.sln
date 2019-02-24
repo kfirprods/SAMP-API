@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampApi", "SampApi\SampApi.csproj", "{F8E98051-3AE2-41C6-A970-B81768DF1E53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaSampApi", "SampApi\GtaSampApi.csproj", "{F8E98051-3AE2-41C6-A970-B81768DF1E53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampApiSample", "SampApiSample\SampApiSample.csproj", "{F02E4614-0060-4AE4-9186-ABCA69CC02EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaSampApiSample", "SampApiSample\GtaSampApiSample.csproj", "{F02E4614-0060-4AE4-9186-ABCA69CC02EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
