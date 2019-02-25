@@ -1,7 +1,8 @@
 # SAMP-API
 A C# written API to GTA:SA and SA:MP (works on all recent versions including 0.3.DL) using memory injections
-A lot of credit goes to this project: https://github.com/SAMP-UDF/SAMP-UDF-for-AutoHotKey/
-This library is mostly a translation of their AHK script to a C# library
+
+A lot of credit is owed to this project: https://github.com/SAMP-UDF/SAMP-UDF-for-AutoHotKey/
+In fact, this library is mostly a translation of their AHK script to C#
 
 ### Example
 ```C#
