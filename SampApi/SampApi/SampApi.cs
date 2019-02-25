@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SampApi
+namespace GtaSampApi
 {
     public static class SampApi
     {

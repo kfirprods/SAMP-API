@@ -1,4 +1,4 @@
-﻿namespace SampApi
+﻿namespace GtaSampApi
 {
     internal struct Zone
     {

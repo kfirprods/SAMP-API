@@ -1,4 +1,4 @@
-﻿namespace SampApi
+﻿namespace GtaSampApi
 {
     public struct Coordinates
     {

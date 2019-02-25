@@ -7,7 +7,7 @@
     <ProjectGuid>{F8E98051-3AE2-41C6-A970-B81768DF1E53}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SampApi</RootNamespace>
+    <RootNamespace>GtaSampApi</RootNamespace>
     <AssemblyName>GtaSampApi</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

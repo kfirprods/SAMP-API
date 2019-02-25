@@ -10,9 +10,12 @@
     <projectUrl>https://github.com/kfirprods/SAMP-API</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-    	An interface to GTA:SA and SA:MP via memory injections, fully written in C#
+    	An interface to GTA:SA and SA:MP (including 0.3.DL) via memory injections, written entirely in C#
     </description>
-    <releaseNotes>Initial release</releaseNotes>
+    <releaseNotes>
+        - Fixed critical issue with AddMessageToChat https://github.com/kfirprods/SAMP-API/issues/1
+        - Renamed namespace from SampApi to GtaSampApi to match the name fo the package
+    </releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>gta gtasa samp sanandreas san andreas multiplayer api sampapi gtasaapi</tags>
   </metadata>

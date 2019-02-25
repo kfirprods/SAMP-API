@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
 
-namespace SampApi
+namespace GtaSampApi
 {
     internal class Internal
     {
@@ -232,6 +232,12 @@ namespace SampApi
 
         public static void CallWithParams(IntPtr hProcess, IntPtr dwFunc, Parameter[] aParams, bool bCleanupStack = true)
         {
+            // Refresh our reserved memory to prevent it from having data from previous calls
+            if (!RefreshMemory())
+            {
+                return;
+            }
+
             var validParams = 0;
 
             // i * PUSh + CALL + RETN
